@@ -97,3 +97,5 @@ cv.createTrackbar( "levels+3", "contours", 3, 7, update )
 cv.imshow('image', img)
 cv.waitKey()
 cv.destroyAllWindows()
+
+print(1)
